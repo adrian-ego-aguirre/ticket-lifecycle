@@ -53,12 +53,12 @@ This phase walks through the full lifecycle of a ticket once it is submitted by 
     <strong>Ticket Intake</strong>
     <p>
       A ticket is created by an end user through the osTicket user portal. The ticket includes a help topic, priority level, and description of the issue.
-    </p>
     <ul>
       <li>User submits ticket via the end-user portal</li>
       <li>Ticket is automatically categorized using Help Topics</li>
       <li>Default SLA and priority are applied</li>
     </ul>
+    </p>
   </li>
 
   <li>
