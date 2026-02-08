@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket Logo"/>
 </p>
 
-<h1 align="center">osTicket – Phase 3: Ticket Lifecycle Demonstration</h1>
+<h1 align="center">osTicket – Phase 3: Ticket Lifecycle & SLAs</h1>
 
 <p>
 This lab demonstrates the complete lifecycle of a support ticket within <strong>osTicket</strong>, from initial creation through triage, escalation, resolution, and closure. The objective is to simulate real-world IT support workflows using SLAs, prioritization, and agent communication.
