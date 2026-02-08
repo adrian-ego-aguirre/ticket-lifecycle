@@ -65,36 +65,36 @@ This phase walks through the full lifecycle of a ticket once it is submitted by 
     <strong>Assignment & Communication</strong>
     <p>
       Once submitted, the ticket is routed to the appropriate department or team based on configuration from Phase 2.
-    </p>
     <ul>
       <li>Ticket assigned to Level I or Level II support</li>
       <li>Agent reviews issue details</li>
       <li>Initial communication sent to the user</li>
     </ul>
+    </p>
   </li>
 
   <li>
     <strong>Working the Issue</strong>
     <p>
       The assigned agent investigates and works toward resolving the issue while providing updates as needed.
-    </p>
     <ul>
       <li>Agent performs troubleshooting steps</li>
       <li>Internal notes added for documentation</li>
       <li>Status updated (Open → In Progress)</li>
     </ul>
+    </p>
   </li>
 
   <li>
     <strong>Resolution & Closure</strong>
     <p>
       Once the issue is resolved, the agent confirms the solution with the user and closes the ticket.
-    </p>
     <ul>
       <li>Solution provided and verified</li>
       <li>Ticket marked as Resolved</li>
       <li>Ticket closed after confirmation</li>
     </ul>
+    </p>
   </li>
 
 </ul>
@@ -113,35 +113,35 @@ Service Level Agreements (SLAs) ensure tickets are resolved within defined timef
     <strong>Sev-A – Critical (1 Hour, 24/7)</strong>
     <p>
       Used for system-wide outages or critical failures. Tickets are immediately escalated to the System Administrators team.
-    </p>
     <ul>
       <li>Example: Company-wide service outage</li>
       <li>Immediate escalation</li>
       <li>24/7 coverage</li>
     </ul>
+    </p>
   </li>
 
   <li>
     <strong>Sev-B – High Priority (4 Hours, 24/7)</strong>
     <p>
       Important issues that impact business operations but do not fully halt services.
-    </p>
     <ul>
       <li>Example: Software installation or upgrade request</li>
       <li>Assigned to appropriate support team</li>
       <li>Tracked against SLA timer</li>
     </ul>
+    </p>
   </li>
 
   <li>
     <strong>Sev-C – Standard (Business Hours)</strong>
     <p>
       Lower-priority issues handled during standard business hours.
-    </p>
     <ul>
       <li>Example: Password reset or performance issue</li>
       <li>Scheduled resolution</li>
     </ul>
+    </p>
   </li>
 
 </ul>
