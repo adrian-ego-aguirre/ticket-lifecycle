@@ -110,4 +110,75 @@ Service Level Agreements (SLAs) ensure tickets are resolved within defined timef
 <ul>
 
   <li>
-    <strong>Sev-A – Cr
+    <strong>Sev-A – Critical (1 Hour, 24/7)</strong>
+    <p>
+      Used for system-wide outages or critical failures. Tickets are immediately escalated to the System Administrators team.
+    </p>
+    <ul>
+      <li>Example: Company-wide service outage</li>
+      <li>Immediate escalation</li>
+      <li>24/7 coverage</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Sev-B – High Priority (4 Hours, 24/7)</strong>
+    <p>
+      Important issues that impact business operations but do not fully halt services.
+    </p>
+    <ul>
+      <li>Example: Software installation or upgrade request</li>
+      <li>Assigned to appropriate support team</li>
+      <li>Tracked against SLA timer</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Sev-C – Standard (Business Hours)</strong>
+    <p>
+      Lower-priority issues handled during standard business hours.
+    </p>
+    <ul>
+      <li>Example: Password reset or performance issue</li>
+      <li>Scheduled resolution</li>
+    </ul>
+  </li>
+
+</ul>
+
+---
+
+<h2>Triaging & Escalation</h2>
+
+<p>
+Tickets are evaluated during triage to determine whether they can be resolved immediately or require escalation.
+</p>
+
+<ul>
+  <li>Level I resolves common issues</li>
+  <li>Complex issues escalated to Level II or SysAdmins</li>
+  <li>Escalation ensures SLA compliance</li>
+</ul>
+
+---
+
+<h2>✅ Key Takeaways</h2>
+
+<ul>
+  <li>osTicket supports full ticket lifecycle management</li>
+  <li>SLAs drive prioritization and accountability</li>
+  <li>Clear communication improves resolution efficiency</li>
+  <li>Proper triage prevents SLA breaches</li>
+</ul>
+
+---
+
+<h2>📌 Conclusion</h2>
+
+<p>
+In this phase, osTicket was used to simulate real-world IT support operations, demonstrating how tickets are created, prioritized, assigned, escalated, resolved, and closed. This workflow reflects standard enterprise help desk practices and highlights the importance of SLAs, documentation, and structured escalation paths.
+</p>
+
+<p>
+With Phases 1–3 complete, the osTicket environment now represents a fully functional, enterprise-style help desk system.
+</p>
