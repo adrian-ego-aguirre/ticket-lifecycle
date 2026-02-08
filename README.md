@@ -10,12 +10,6 @@ This lab demonstrates the complete lifecycle of a support ticket within <strong>
 
 ---
 
-<h2>🎥 Video Demonstration</h2>
-
-- ### <a href="https://www.youtube.com/watch?v=LfigAOzRHFs">YouTube: osTicket Tutorial (Phase 3/3 – Ticket Lifecycle Demonstration)</a>
-
----
-
 <h2>🛠 Environments & Technologies Used</h2>
 
 <ul>
