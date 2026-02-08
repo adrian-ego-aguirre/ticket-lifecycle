@@ -29,7 +29,7 @@ This lab demonstrates the complete lifecycle of a support ticket within <strong>
 
 ---
 
-<h1>📌 Phase 3 Overview – Ticket Lifecycle</h1>
+<h1>📌 Phase 3 Overview – Ticket Lifecycle and SLAs</h1>
 
 <p>
 <strong>Goal:</strong> Demonstrate how osTicket manages support requests from intake to resolution, including ticket prioritization, SLA enforcement, agent assignment, escalation, and closure.
