@@ -134,7 +134,7 @@ Service Level Agreements (SLAs) ensure tickets are resolved within defined timef
   </li>
 
   <li>
-    <strong>Sev-C – Standard (Business Hours)</strong>
+    <strong>Sev-C – Standard (8 hours, Business Hours)</strong>
     <p>
       Lower-priority issues handled during standard business hours.
     <ul>
